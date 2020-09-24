@@ -5,4 +5,4 @@ HTMLファイルとJSファイルにあるコメントアウトの要件とヒ�
 
 完成見本はこちらです。
 
-![fae](./images/callback_hell_sample.mov)
+![sample](./images/callback_hell_sample.gif)
